@@ -28,5 +28,5 @@ module.exports = {
     },
   ],
   test,
-  connectionLabel: '{{json.first_name}} {{json.last_name}} ({{json.email}})',
+  connectionLabel: '{{first_name}} {{last_name}} ({{email}})',
 };
